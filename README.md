@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá! Eu sou o Ayslan Gadelha 🚀
 
-<!--
-**AYSLANGADELHA/AYSLANGADELHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e educação. Estou em constante busca por aprimoramento e busco utilizar meus conhecimentos em programação para impactar positivamente a vida das pessoas.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Rede Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayslangadelha)
+
+
+## Estatísticas
+![AYSLANGADELHA GitHub stats](https://github-readme-stats.vercel.app/api?username=AYSLANGADELHA&show_icons=true&theme=tokyonight)
+
+## Tecnologia Utilizada
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
+</div><br/>
+
+### ENTRE EM CONTATO ATRAVÉS DO MEU EMAIL
+
+- ayslan.gadelha2004@gmail.com
