@@ -13,11 +13,21 @@
 ## Estatísticas
 ![AYSLANGADELHA GitHub stats](https://github-readme-stats.vercel.app/api?username=AYSLANGADELHA&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYSLANGADELHA&hide=javascript,html)
+
 ## Tecnologia Utilizada
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
-</div><br/>
+    <img align="center" alt="python" src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
+
+
+<div>
+    <img align="center" alt="java" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+
+
+</div>
 
 ### ENTRE EM CONTATO ATRAVÉS DO MEU EMAIL
 
